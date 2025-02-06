@@ -1,0 +1,8 @@
+flask
+opencv-python
+deepface
+gtts
+numpy
+pymysql
+gradio
+pillow
